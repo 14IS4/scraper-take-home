@@ -1,0 +1,37 @@
+[
+  {
+    "event_id": "TABS2024012754",
+    "address": "340 Bucees Blvd, Melissa, TX 75454",
+    "event_created_at": "2024-03-08",
+    "description": "Bucees Blvd Retail\n\nNew Construction\n\n10,245 SF shell retail building with 1703 SF of that being dedicated to a Domino's restaurant that will be built at the same time.",
+    "category": "New Construction"
+  },
+  {
+    "event_id": "TABS2025019388",
+    "address": "6201 Harry Hines Blvd, Dallas, TX 75235",
+    "event_created_at": "2025-05-20",
+    "description": "UTSW Simmons Biomedical Research Building Level 04 Renovations\n\nRenovation/Alteration\n\nModify existing storage room into an equipment galley, Replace existing cold room with a new room of similar size, Replace existing cold room with a new room of similar, Refresh space with updated equipment.",
+    "category": "Renovation/Alteration"
+  },
+  {
+    "event_id": "TABS2019009611",
+    "address": "7601 Southwest Parkway, Austin, TX 78735",
+    "event_created_at": "2019-05-01",
+    "description": "YETI HQ - Lantana Phase 4\n\nRenovation/Alteration\n\nRenovation of existing space, including room reconfigurations, electrical, and mechanical work.",
+    "category": "Renovation/Alteration"
+  },
+  {
+    "event_id": "EABPRJ99003417",
+    "address": "JONES AT FM 1960, Houston, TX",
+    "event_created_at": "1999-01-01",
+    "description": "WALGREENS DRUG STORE\n\nNew Construction\n\nONE STORY BUILDING TO BE USED AS RETAIL AND PHARMACY[ICP REV PRF LTR PWS PL $35]",
+    "category": "New Construction"
+  },
+  {
+    "event_id": "EABPRJ93000456",
+    "address": "1600 SARAH DEWITT CENTER, Gonzales, TX 78629",
+    "event_created_at": "1900-01-01",
+    "description": "LEASE 657-7742-E3-GONZALES\n\nUnknown",
+    "category": "Unknown"
+  }
+]
